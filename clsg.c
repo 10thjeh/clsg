@@ -259,4 +259,5 @@ fighters[WILLIAM].level = 1;
 fighters[WILLIAM].force = 45;
 fighters[WILLIAM].speed = 7;
 fighters[WILLIAM].health = 18;
+May be useful for other thingy idk
 */
